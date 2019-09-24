@@ -1,6 +1,6 @@
 Title: My Markel Test Site
 Date:  2019-09-22 11:15
-Category: Python
+Category: Blog
 Tags: Python, Pelican, Innovation
 Slug: my_first_post
 Author:  Darren Smith
